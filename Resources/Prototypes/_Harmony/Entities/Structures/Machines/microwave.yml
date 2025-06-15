@@ -13,7 +13,7 @@
       collection: MetalBreak
     damage:
       types:
-        Blunt: 25
+        Blunt: 7
   - type: DamageOtherOnHit
     damage:
       types:
@@ -21,7 +21,7 @@
   - type: DamageOnLand
     damage:
       types:
-        Blunt: 50
+        Blunt: 15
   - type: EmitSoundOnLand
     sound:
       collection: MetalBreak
@@ -45,16 +45,16 @@
     attackRate: 0.75
     damage:
       types:
-        Blunt: 30
+        Blunt: 12
         Shock: 5
   - type: DamageOtherOnHit
     damage:
       types:
-        Blunt: 15
+        Blunt: 10
   - type: DamageOnLand
     damage:
       types:
-        Blunt: 25
+        Blunt: 15
   - type: EmitSoundOnLand
     sound:
       collection: MetalBreak

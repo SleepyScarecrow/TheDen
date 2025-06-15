@@ -75,6 +75,10 @@
       id: MobsterAccent
     - type: trait
       id: SkeletonAccent
+    - type: trait
+      id: SharpInflection
+    - type: trait
+      id: Monotonous
 
 - type: characterItemGroup
   id: TraitsLanguagesTajaran
